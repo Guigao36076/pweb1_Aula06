@@ -1,0 +1,22 @@
+*{
+    background-color:#98bea5;
+}
+
+h1{
+    color: #9cff80 ;
+}
+
+ol{
+    color:rgb(46, 82, 55);
+}
+.romano{ /* . E O NOME DA CLASS */
+    list-style-type:upper-roman;
+    color:rgb(46, 82, 55);
+}
+.quadrado{ /* Deixa a lista com quadrados em vez de pontinhos */
+    list-style-type:square;
+    color:rgb(46, 82, 55);
+}
+ul{
+    color: rgb(46, 82, 55);
+}
